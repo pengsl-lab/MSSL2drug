@@ -11,6 +11,7 @@ We peopose multi-task joint strategies of self-supervised representation learnin
 * disease_sim.txt: protein similarity matrix
 * BioHNs.txt: the adjacency matrix of the biomedical heterogeneous networks.
 * BioHNs_code.txt: the initialization features of nodes in the biomedical heterogeneous network.
+* BioHNsdata_with order: the corresponding order of node in drug_sim.txt, protein_sim.txt, disease_sim.txt, and BioHNs.txt BioHNs.txt, and BioHNs_code.txt
 2. DownStreamdata: drug discovery data
 * DDINet.txt: Drug-Drug interaction matrix.
 * DTINet.txt: Drug-Protein interaction matrix.
